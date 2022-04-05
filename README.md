@@ -1,2 +1,2 @@
 # First-Interactive-UI
-<img src='image_file_url' width="30%">
+<img src='Hello_Toast_task.gif' width="30%">
